@@ -1,5 +1,5 @@
 
-    var launch = new Date (2022,02,09);
+var launch = new Date("01/08/2020, 11:49:36 AM");
     var years = document.getElementById('years');
     var months = document.getElementById('months');
     var days = document.getElementById('days');
