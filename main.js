@@ -1,5 +1,6 @@
 
-var launch = new Date("01/08/2020, 11:49:36 AM");
+    var launch = new Date("01/08/2020, 11:49:36 AM"); 
+// "January 09, 2020" or use this format
     var years = document.getElementById('years');
     var months = document.getElementById('months');
     var days = document.getElementById('days');
